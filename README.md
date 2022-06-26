@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**jianguozhouzunyimedicaluniversity/jianguozhouzunyimedicaluniversity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi, I’m Dr. Jian-Guo Zhou 👋
 
 - 🔭 I’m currently working on The Second Affiliated Hospital of Zunyi Medical University
 - 🌱 I’m currently learning Python
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: twitter - @JianGuoZhou3
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
