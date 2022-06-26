@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with ML tools.
 - 💬 Ask me about Ml and Cancer research!
 - 📫 How to reach me: twitter - @JianGuoZhou3
-- 😄 Pronouns: ...
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
