@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Cancer Bioinformatics, IO...
 - 🤔 I’m looking for help with ML tools.
 - 💬 Ask me about Ml and Cancer research!
-- 📫 How to reach me: twitter - @JianGuoZhou3
+- 📫 How to reach me: [Twitter-@JianGuoZhou3](twitter.com/JianGuoZhou3)
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...
